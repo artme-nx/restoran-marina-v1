@@ -1,9 +1,0 @@
-Restoran Marina — v1 (Fine dining / intimna konoba)
-Živa stranica (GitHub Pages):
-https://artme-nx.github.io/restoran-marina-v1/
-
-GitHub repo:
-https://github.com/artme-nx/restoran-marina-v1
-
-Account: artme-nx
-Objavljeno: 2026-06-21
